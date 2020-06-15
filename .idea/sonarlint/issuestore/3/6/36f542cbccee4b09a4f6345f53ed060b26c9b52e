@@ -1,0 +1,12 @@
+
+g Web:TableHeaderHasIdOrScopeCheck(";Add either an 'id' or a 'scope' attribute to this <th> tag.(„îõ
+l Web:TableHeaderHasIdOrScopeCheck)";Add either an 'id' or a 'scope' attribute to this <th> tag.(ÔÑáøÿÿÿÿ
+Y	Web:S5255"DAdd an "aria-label" or "aria-labbelledby" attribute to this element.(Àá ´
+CWeb:BoldAndItalicTagsCheckG"Replace this <i> tag by <em>.(óè‹™
+l Web:TableHeaderHasIdOrScopeCheck'";Add either an 'id' or a 'scope' attribute to this <th> tag.(‹—çùÿÿÿÿ
+‰	Web:S5148"oAdd rel="noopener noreferrer" to this link to prevent the original page from being modified by the opened link.(¤Şƒåúÿÿÿÿ
+Y	Web:S5255"DAdd an "aria-label" or "aria-labbelledby" attribute to this element.(Àá ´
+Y	Web:S5255"DAdd an "aria-label" or "aria-labbelledby" attribute to this element.(Àá ´
+>	Web:S1827")Remove this deprecated "align" attribute.(Àá ´
+MWeb:TableWithoutCaptionCheck$" Add a description to this table.(üÈæÃÿÿÿÿÿ
+XWeb:FrameWithoutTitleCheckS"-Add a "title" attribute to this <iframe> tag.(„¸²Òûÿÿÿÿ

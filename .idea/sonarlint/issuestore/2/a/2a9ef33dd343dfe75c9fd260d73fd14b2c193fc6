@@ -1,0 +1,11 @@
+
+=	Web:S1827")Remove this deprecated "align" attribute.(Î™ø
+CWeb:BoldAndItalicTagsCheck-"Replace this <i> tag by <em>.(İ¦º
+XWeb:FrameWithoutTitleCheck9"-Add a "title" attribute to this <iframe> tag.(›ìµ‹şÿÿÿÿ
+„	Web:S5148*"oAdd rel="noopener noreferrer" to this link to prevent the original page from being modified by the opened link.(İ½Çİ
+„	Web:S5148*"oAdd rel="noopener noreferrer" to this link to prevent the original page from being modified by the opened link.(İ½Çİ
+X	Web:S5255"DAdd an "aria-label" or "aria-labbelledby" attribute to this element.(Î™ø
+X	Web:S5255"DAdd an "aria-label" or "aria-labbelledby" attribute to this element.(Î™ø
+„	Web:S5148("oAdd rel="noopener noreferrer" to this link to prevent the original page from being modified by the opened link.(öì©
+X	Web:S5255"DAdd an "aria-label" or "aria-labbelledby" attribute to this element.(Î™ø
+„	Web:S5148&"oAdd rel="noopener noreferrer" to this link to prevent the original page from being modified by the opened link.(³¿Ğş

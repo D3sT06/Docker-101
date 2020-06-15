@@ -1,0 +1,10 @@
+
+g Web:TableHeaderHasIdOrScopeCheck*";Add either an 'id' or a 'scope' attribute to this <th> tag.(¯Š¿
+Y	Web:S5255"DAdd an "aria-label" or "aria-labbelledby" attribute to this element.(ƒõ©Ü
+l Web:TableHeaderHasIdOrScopeCheck)";Add either an 'id' or a 'scope' attribute to this <th> tag.(ïÔ¯Ôıÿÿÿÿ
+Y	Web:S5255"DAdd an "aria-label" or "aria-labbelledby" attribute to this element.(ƒõ©Ü
+Y	Web:S5255"DAdd an "aria-label" or "aria-labbelledby" attribute to this element.(ƒõ©Ü
+>	Web:S1827")Remove this deprecated "align" attribute.(ƒõ©Ü
+HWeb:BoldAndItalicTagsCheckK"Replace this <i> tag by <em>.(·ûªºıÿÿÿÿ
+XWeb:FrameWithoutTitleCheckW"-Add a "title" attribute to this <iframe> tag.(›ìµ‹şÿÿÿÿ
+MWeb:TableWithoutCaptionCheck&" Add a description to this table.(Éªıºúÿÿÿÿ
